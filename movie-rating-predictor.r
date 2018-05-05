@@ -1,12 +1,9 @@
-#A20391757 HW4
+
 ```{r}
-#title: "HW4"
-#output: html_document
+#title: "Movie Rating predictor"
 #Author: "Goutham Muguluvalli-Niranjan"
-#CWID: "A20391757"
 ```
 
-#Question 2.3
 ```{r}
 rm(list=ls())
 
